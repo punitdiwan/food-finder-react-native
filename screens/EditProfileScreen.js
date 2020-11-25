@@ -172,7 +172,7 @@ const EditProfileScreen = () => {
           />
         </View>
         <View style={styles.action}>
-          <Feather name="phone" color={colors.text} size={20} />
+          <Feather name="md-megaphone" color={colors.text} size={20} />
           <TextInput
             placeholder="Phone"
             placeholderTextColor="#666666"
